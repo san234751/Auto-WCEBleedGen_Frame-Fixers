@@ -53,13 +53,9 @@
 
 ## Interpretability Plots for Best Validation Results
 
-### Interpretability Plot 1
+### Interpretability Plot
 
-![Interpretability Plot 1](path_to_plot_1.png)
-
-### Interpretability Plot 2
-
-![Interpretability Plot 2](path_to_plot_2.png)
+![Interpretability Plot](path_to_plot.png)
 
 ## Screenshots/Pictures of Best Testing Results (Dataset 1)
 
