@@ -51,6 +51,15 @@
 
 ![Image 1129](Detection/Val/img-(1129).png)
 
+## Interpretability Plots for Best Validation Results
+
+### Interpretability Plot 1
+
+![Interpretability Plot 1](path_to_plot_1.png)
+
+### Interpretability Plot 2
+
+![Interpretability Plot 2](path_to_plot_2.png)
 
 ## Screenshots/Pictures of Best Testing Results (Dataset 1)
 
