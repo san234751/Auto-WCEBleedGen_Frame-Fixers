@@ -13,43 +13,43 @@
 
 ### Image 1090 (Validation Dataset)
 
-![Image 1090](Detection/Val/img- (1090).png)
+![Image 1090](Detection/Val/img-(1090).png)
 
 ### Image 1098 (Validation Dataset)
 
-![Image 1098](Detection/Val/img- (1098).png)
+![Image 1098](Detection/Val/img-(1098).png)
 
 ### Image 1100 (Validation Dataset)
 
-![Image 1100](Detection/Val/img- (1100).png)
+![Image 1100](Detection/Val/img-(1100).png)
 
 ### Image 1101 (Validation Dataset)
 
-![Image 1101](Detection/Val/img- (1101).png)
+![Image 1101](Detection/Val/img-(1101).png)
 
 ### Image 1106 (Validation Dataset)
 
-![Image 1106](Detection/Val/img- (1106).png)
+![Image 1106](Detection/Val/img-(1106).png)
 
 ### Image 1113 (Validation Dataset)
 
-![Image 1113](Detection/Val/img- (1113).png)
+![Image 1113](Detection/Val/img-(1113).png)
 
 ### Image 1114 (Validation Dataset)
 
-![Image 1114](Detection/Val/img- (1114).png)
+![Image 1114](Detection/Val/img-(1114).png)
 
 ### Image 1115 (Validation Dataset)
 
-![Image 1115](Detection/Val/img- (1115).png)
+![Image 1115](Detection/Val/img-(1115).png)
 
 ### Image 1120 (Validation Dataset)
 
-![Image 1120](Detection/Val/img- (1120).png)
+![Image 1120](Detection/Val/img-(1120).png)
 
 ### Image 1129 (Validation Dataset)
 
-![Image 1129](Detection/Val/img- (1129).png)
+![Image 1129](Detection/Val/img-(1129).png)
 
 
 ## Screenshots/Pictures of Best Testing Results (Dataset 1)
